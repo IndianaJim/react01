@@ -1,0 +1,16 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  padding: 2em;
+  text-align: center;
+}
+
+.App * {
+  margin: auto auto 2em;
+}
+
+input {
+  padding: 0.5em;
+  border: 1px solid black;
+  border-radius: 0.25em;
+}
